@@ -1,4 +1,11 @@
-My very first react project, which I have redone with Typescript. I have done this when I started learning Typescript.
+My very first React project that I built, oneof FreeCodeCamp's projects. 
+I have rewritten this when I started learning Typescript.
+
+
+
+
+
+
 
 
 
